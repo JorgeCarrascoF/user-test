@@ -4,8 +4,9 @@ Objetivo
 - Que el usuario genere intencionalmente diferentes tipos de errores en una app de prueba para verificar que Buggle los reciba y registre correctamente.
 
 Cómo ejecutar
+- Instalar dependencias (npm install)
 - Levantar la app de prueba (npm run dev).
-- Abrir la app en el navegador (normalmente en http://localhost:5173).
+- Abrir la app en el navegador (normalmente en http://localhost:5173, comprobar consola por si el puerto está ocupado).
 
 
 
