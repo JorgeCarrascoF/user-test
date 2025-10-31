@@ -15,3 +15,7 @@ Escenarios sugeridos
     - Rechazo de promesa no manejado: Promise.reject(new Error('Test promise rejection'));
     - Hacer un error con console.log(): console.log(undefinedVariable);
     - Hacer un error con console.error(): console.error(new Error('Test console error'));
+
+Verificación
+- Iniciar sesión en Buggle (https://pruebas-concepto.vercel.app) y verificar que los errores generados aparecen en el panel de errores.
+- Comprobar detalles del error, como stack trace, contexto y cualquier otra información relevante.
